@@ -19,11 +19,3 @@ El objetivo de este proyecto es proporcionar una base sólida en lógica matemá
 ## 🚀 Contribuciones  
 
 Si deseas contribuir con material adicional, correcciones o mejoras, ¡eres bienvenido! Puedes hacerlo mediante un **Pull Request** o abriendo un **Issue**.  
-
-## 📩 Contacto  
-
-Para dudas o sugerencias, no dudes en contactarnos.  
-
----  
-
-¡Esperamos que este material sea útil en tu aprendizaje! 🎓🚀  
