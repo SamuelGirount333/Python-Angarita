@@ -1,4 +1,4 @@
-# Python-Angarita
+# Python-Math and logic
 # Formación en Lógica de Programación y Matemáticas  
 
 Bienvenido a este repositorio de formación en lógica de programación y matemáticas. Aquí encontrarás material educativo diseñado para fortalecer tus habilidades en lógica matemática aplicada a la programación.  
